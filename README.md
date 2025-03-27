@@ -34,10 +34,12 @@ The Gradio interface allows you to input:
 
 The output will be either "Pass" or "Fail" based on the prediction.
 
+You can access the Gradio interface [here](http://localhost:7860) (replace with the actual URL if hosted online).
+
 ## Example
 To predict if a student who studied for 7 hours and scored 80 in the previous exam will pass:
 1. Enter `7` for Study Hours.
-2. Enter `80` for Previous Exam Score.
+2. Enter `70` for Previous Exam Score.
 3. The interface will display the result as "Pass" or "Fail".
 
 ![Project Overview](/image.png)
